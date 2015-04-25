@@ -1,3 +1,7 @@
+1, 增加了meituan wiki搜索关键字。命令行：mtwiki toBeSearchStrings 即可。
+2, 其中的jira插件也很好用，但记得要在.zshrc中添加`JIRA_RAPID_BOARD=”false” `,否则
+可能出现问题。使用meituan jira的话把.jira-url放到.zshrc同目录下。
+***
 ![Oh My Zsh](https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png)
 
 
